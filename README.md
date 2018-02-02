@@ -4,5 +4,5 @@ Following along with the online course at [LetsBuildThatApp](https://www.letsbui
 , the code is implemented by Swift 4 & Xcode 9.2.
 
 ## Screenshots
-![Screenshot1](screenshot1.png =250px)
-![Screenshot2](screenshot2.png =250px)
+![Screenshot1](screenshot1.png =250x)
+![Screenshot2](screenshot2.png =250x)
